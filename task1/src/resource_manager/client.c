@@ -68,6 +68,7 @@ int main(int argc, char *argv[])
     //     send_buf[strcspn(send_buf, "\n")] = '\0';
     // } 
     if(strcmp(argv[1], "-w") == 0){
+      usleep(0.5 * pow(10, 6));
       int msg_num = rand() % 3;
       if (send(fd, messages[msg_num] ,strlen(messages[msg_num]), 0) != strlen(messages[msg_num])) {
       perror("send");
@@ -79,13 +80,13 @@ int main(int argc, char *argv[])
   }
 
     if(strcmp(argv[1], "-r") == 0){
+      usleep(0.5 * pow(10, 6));
       if (send(fd, READ_MSG ,strlen(READ_MSG), 0) != strlen(READ_MSG)) {
       perror("send");
       close(fd);
       return EXIT_FAILURE;
     }else{
       printf("Send to server: %s\n", READ_MSG);
-      sleep(1);
       ssize_t n = recv(fd, recv_buf, sizeof(recv_buf) - 1, 0);
       if (n < 0) {
         perror("recv");

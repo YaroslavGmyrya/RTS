@@ -265,16 +265,16 @@ my_send(fd, msg, strlen(msg));
           continue;
         }
 
-        pthread_mutex_lock(&mutex);
         char* data = command[2];
         int data_size = strlen(data);
 
+        pthread_mutex_lock(&mutex);
         memcpy(DEVICE_MEMORY + seek, data, data_size);
+        pthread_mutex_unlock(&mutex);
 
         err_msg = "Data has been writen on device\n";
 
         my_send(fd, err_msg, strlen(err_msg));
-        pthread_mutex_unlock(&mutex);
       }
 
       else{

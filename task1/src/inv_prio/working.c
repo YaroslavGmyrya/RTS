@@ -1,11 +1,12 @@
 #include "working.h"
 #include <errno.h>
-#include <pthread.h>
 #include <sched.h>
 #include <string.h>
 #include <time.h>
 #include <unistd.h>
+#include <pthread.h>
 
+#define PTHREAD_PRIO_INHERIT 1
 static pthread_mutex_t resource_mutex;
 
 int init_resource_mutex(int enable_prio_inherit)
@@ -13,9 +14,9 @@ int init_resource_mutex(int enable_prio_inherit)
   pthread_mutexattr_t attr;
   if (pthread_mutexattr_init(&attr) != 0) return -1;
 #ifdef PTHREAD_PRIO_INHERIT
-  if (enable_prio_inherit) {          // ?????
+  if (enable_prio_inherit) {  
     // Попробуем включить наследование приоритета, если система поддерживает
-    pthread_mutexattr_setprotocol(&attr, PTHREAD_PRIO_INHERIT);
+    printf("%d\n",pthread_mutexattr_setprotocol(&attr, PTHREAD_PRIO_INHERIT));
   }
 #else
   (void)enable_prio_inherit;
