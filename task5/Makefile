@@ -16,8 +16,8 @@ task3_benchmark: src/task3_benchmark.c src/mempool.c
 	$(CC) $(CFLAGS) -o $@ $^ $(LDFLAGS)
 
 test:
-	./task1_latency > task1_test.txt
-	./task2_mlock > task2_test.txt
+	sudo ./task1_latency > task1_test.txt
+	sudo ./task2_mlock > task2_test.txt
 
 plot:
 	python3 plot_create.py task1_test.txt

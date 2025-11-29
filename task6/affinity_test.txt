@@ -1,0 +1,6002 @@
+Scheduler policy set to SCHED_FIFO with priority 50
+Starting benchmark...
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    78 ns
+Avg latency:    17.19 ns
+Jitter (max-min): 63 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    18.05 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.84 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.80 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    59 ns
+Avg latency:    17.60 ns
+Jitter (max-min): 44 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.16 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.85 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.44 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.12 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.07 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.10 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    277 ns
+Avg latency:    17.92 ns
+Jitter (max-min): 262 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    18.02 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    17.95 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    17.68 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    17.72 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.01 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    17.72 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    20 ns
+Avg latency:    17.56 ns
+Jitter (max-min): 5 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    17.72 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    17.75 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.69 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    17.79 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    21 ns
+Avg latency:    18.69 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    17.68 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    17.64 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    17.70 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    17.69 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    17.74 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    21 ns
+Avg latency:    18.73 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    52 ns
+Avg latency:    18.37 ns
+Jitter (max-min): 36 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.10 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.12 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.12 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.81 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.44 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.79 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.45 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.88 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.12 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.49 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.45 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.80 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.05 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.06 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.12 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.09 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.08 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.48 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.79 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    52 ns
+Avg latency:    17.06 ns
+Jitter (max-min): 37 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.81 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.44 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.48 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.83 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.12 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.16 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    17.88 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.49 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.49 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.81 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.89 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.75 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.84 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.15 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.12 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.48 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.79 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    20 ns
+Avg latency:    17.20 ns
+Jitter (max-min): 5 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.20 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.20 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.08 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.83 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.21 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.11 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.48 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.16 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.16 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.88 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.80 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.45 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.48 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.79 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.50 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.16 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.45 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.19 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.17 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.12 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.83 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.16 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.08 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.26 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.19 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.10 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.78 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.45 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.44 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    17.88 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.15 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.08 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.08 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.12 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.10 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.77 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.30 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.10 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.10 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    1980 ns
+Avg latency:    19.88 ns
+Jitter (max-min): 1965 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    106 ns
+Avg latency:    16.95 ns
+Jitter (max-min): 91 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.78 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.85 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.48 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.45 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.15 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.15 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.15 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.31 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.49 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.11 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.11 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.00 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.10 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.99 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.15 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.12 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    18.09 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.11 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.18 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.21 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    2683 ns
+Avg latency:    19.94 ns
+Jitter (max-min): 2668 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.88 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.45 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.10 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.19 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.17 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.95 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.17 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.15 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.12 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.16 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.16 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.17 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.20 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.83 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.12 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.32 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.15 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.44 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    23 ns
+Avg latency:    17.09 ns
+Jitter (max-min): 8 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.20 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.21 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.21 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.97 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.12 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.81 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.83 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.85 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.44 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.15 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.44 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.45 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.49 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.45 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.44 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.45 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.83 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    1531 ns
+Avg latency:    18.75 ns
+Jitter (max-min): 1516 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.20 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.23 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.45 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.79 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.06 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.05 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.16 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.16 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.99 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.03 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.45 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.84 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.17 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.10 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.83 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.80 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.81 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.12 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    1655 ns
+Avg latency:    18.80 ns
+Jitter (max-min): 1640 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.45 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.12 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.77 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.77 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.79 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.48 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.45 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.16 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.15 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.85 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.11 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.12 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.29 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.30 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.19 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    50 ns
+Avg latency:    17.05 ns
+Jitter (max-min): 35 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.43 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.43 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.79 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.76 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.15 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.16 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.12 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.16 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.18 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.12 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.80 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.48 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.16 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.11 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    392 ns
+Avg latency:    17.84 ns
+Jitter (max-min): 377 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.89 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.15 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.12 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.16 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.11 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.09 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.15 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.17 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.16 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.10 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.48 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.84 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.10 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.80 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.83 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.45 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.81 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.94 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    120 ns
+Avg latency:    17.26 ns
+Jitter (max-min): 105 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.79 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.76 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.15 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.15 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.12 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.99 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.81 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.15 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.84 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.45 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.45 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.48 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.48 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    1601 ns
+Avg latency:    18.71 ns
+Jitter (max-min): 1586 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.08 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.12 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.99 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.84 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.10 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.31 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.79 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.32 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.31 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.97 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.45 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.87 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.15 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.18 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.48 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.78 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.12 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.83 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.44 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.83 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.81 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.79 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    2061 ns
+Avg latency:    19.40 ns
+Jitter (max-min): 2046 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.11 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    18.11 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.45 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.77 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.50 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.83 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.80 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.98 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.25 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.09 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.08 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.25 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.48 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.12 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    33 ns
+Avg latency:    17.42 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.83 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    283 ns
+Avg latency:    18.08 ns
+Jitter (max-min): 267 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    18.05 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.35 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.04 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    17.35 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.06 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    21 ns
+Avg latency:    18.03 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    21 ns
+Avg latency:    18.70 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.06 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.72 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    21 ns
+Avg latency:    18.70 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    21 ns
+Avg latency:    18.69 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    17.87 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    20 ns
+Avg latency:    17.56 ns
+Jitter (max-min): 5 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    17.88 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.37 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    17.88 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    17.68 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    21 ns
+Avg latency:    18.72 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    17.79 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    21 ns
+Avg latency:    18.70 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    262 ns
+Avg latency:    18.54 ns
+Jitter (max-min): 247 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.15 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.43 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.47 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    1205 ns
+Avg latency:    18.10 ns
+Jitter (max-min): 1190 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.82 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.46 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.44 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.80 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    19 ns
+Avg latency:    18.09 ns
+Jitter (max-min): 2 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.11 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.79 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.07 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.14 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.27 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.99 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.78 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.30 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.32 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.93 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.97 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.11 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.16 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    18 ns
+Avg latency:    16.83 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    16.84 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.13 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.44 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    20 ns
+Avg latency:    18.08 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    20 ns
+Avg latency:    18.12 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.18 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    19 ns
+Avg latency:    17.16 ns
+Jitter (max-min): 4 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    2022 ns
+Avg latency:    20.53 ns
+Jitter (max-min): 2006 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    24 ns
+Avg latency:    18.70 ns
+Jitter (max-min): 9 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    27 ns
+Avg latency:    18.93 ns
+Jitter (max-min): 12 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    27 ns
+Avg latency:    19.24 ns
+Jitter (max-min): 12 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    25 ns
+Avg latency:    19.13 ns
+Jitter (max-min): 10 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    94 ns
+Avg latency:    18.77 ns
+Jitter (max-min): 79 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    96 ns
+Avg latency:    19.11 ns
+Jitter (max-min): 81 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    26 ns
+Avg latency:    19.22 ns
+Jitter (max-min): 10 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    97 ns
+Avg latency:    19.22 ns
+Jitter (max-min): 82 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    91 ns
+Avg latency:    19.54 ns
+Jitter (max-min): 75 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    214 ns
+Avg latency:    19.00 ns
+Jitter (max-min): 199 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    31 ns
+Avg latency:    20.06 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    93 ns
+Avg latency:    19.66 ns
+Jitter (max-min): 78 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    26 ns
+Avg latency:    19.57 ns
+Jitter (max-min): 10 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    3436 ns
+Avg latency:    23.39 ns
+Jitter (max-min): 3421 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    35 ns
+Avg latency:    19.94 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    100 ns
+Avg latency:    20.15 ns
+Jitter (max-min): 84 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    28 ns
+Avg latency:    19.84 ns
+Jitter (max-min): 12 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    100 ns
+Avg latency:    19.56 ns
+Jitter (max-min): 85 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    101 ns
+Avg latency:    19.66 ns
+Jitter (max-min): 85 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    29 ns
+Avg latency:    19.86 ns
+Jitter (max-min): 13 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    530 ns
+Avg latency:    18.53 ns
+Jitter (max-min): 515 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    77 ns
+Avg latency:    17.18 ns
+Jitter (max-min): 62 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    19 ns
+Avg latency:    17.48 ns
+Jitter (max-min): 3 ns
+
+--- Benchmark Results ---
+Min latency:    15 ns
+Max latency:    11500 ns
+Avg latency:    30.40 ns
+Jitter (max-min): 11485 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    92 ns
+Avg latency:    19.72 ns
+Jitter (max-min): 74 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    98 ns
+Avg latency:    21.75 ns
+Jitter (max-min): 80 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    37 ns
+Avg latency:    22.72 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    19 ns
+Max latency:    138 ns
+Avg latency:    23.09 ns
+Jitter (max-min): 119 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    36 ns
+Avg latency:    23.07 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    37 ns
+Avg latency:    23.04 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    33 ns
+Avg latency:    22.32 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    19 ns
+Max latency:    30 ns
+Avg latency:    22.72 ns
+Jitter (max-min): 11 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    30 ns
+Avg latency:    23.07 ns
+Jitter (max-min): 12 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    31 ns
+Avg latency:    23.08 ns
+Jitter (max-min): 13 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    115 ns
+Avg latency:    23.27 ns
+Jitter (max-min): 97 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    41 ns
+Avg latency:    23.27 ns
+Jitter (max-min): 23 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    111 ns
+Avg latency:    23.55 ns
+Jitter (max-min): 93 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    122 ns
+Avg latency:    24.13 ns
+Jitter (max-min): 104 ns
+
+--- Benchmark Results ---
+Min latency:    19 ns
+Max latency:    184 ns
+Avg latency:    24.08 ns
+Jitter (max-min): 165 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    40 ns
+Avg latency:    22.96 ns
+Jitter (max-min): 22 ns
+
+--- Benchmark Results ---
+Min latency:    19 ns
+Max latency:    35 ns
+Avg latency:    23.05 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    34 ns
+Avg latency:    23.27 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    35 ns
+Avg latency:    23.61 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    8774 ns
+Avg latency:    32.48 ns
+Jitter (max-min): 8756 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    23.79 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    19 ns
+Max latency:    37 ns
+Avg latency:    23.85 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    41 ns
+Avg latency:    23.73 ns
+Jitter (max-min): 23 ns
+
+--- Benchmark Results ---
+Min latency:    19 ns
+Max latency:    42 ns
+Avg latency:    23.70 ns
+Jitter (max-min): 23 ns
+
+--- Benchmark Results ---
+Min latency:    19 ns
+Max latency:    40 ns
+Avg latency:    23.81 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    19 ns
+Max latency:    36 ns
+Avg latency:    23.60 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    19 ns
+Max latency:    37 ns
+Avg latency:    23.81 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    40 ns
+Avg latency:    23.41 ns
+Jitter (max-min): 22 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    36 ns
+Avg latency:    23.72 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    19 ns
+Max latency:    41 ns
+Avg latency:    23.80 ns
+Jitter (max-min): 22 ns
+
+--- Benchmark Results ---
+Min latency:    19 ns
+Max latency:    40 ns
+Avg latency:    23.74 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    19 ns
+Max latency:    39 ns
+Avg latency:    23.77 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    19 ns
+Max latency:    37 ns
+Avg latency:    23.72 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    19 ns
+Max latency:    37 ns
+Avg latency:    23.79 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    19 ns
+Max latency:    38 ns
+Avg latency:    23.74 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    38 ns
+Avg latency:    23.73 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    38 ns
+Avg latency:    23.87 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    19 ns
+Max latency:    40 ns
+Avg latency:    23.84 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    19 ns
+Max latency:    36 ns
+Avg latency:    23.66 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    19 ns
+Max latency:    2820 ns
+Avg latency:    26.73 ns
+Jitter (max-min): 2801 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    42 ns
+Avg latency:    23.78 ns
+Jitter (max-min): 24 ns
+
+--- Benchmark Results ---
+Min latency:    19 ns
+Max latency:    36 ns
+Avg latency:    23.72 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    38 ns
+Avg latency:    23.76 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    19 ns
+Max latency:    240 ns
+Avg latency:    23.98 ns
+Jitter (max-min): 221 ns
+
+--- Benchmark Results ---
+Min latency:    19 ns
+Max latency:    35 ns
+Avg latency:    23.60 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    19 ns
+Max latency:    38 ns
+Avg latency:    23.80 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    36 ns
+Avg latency:    23.78 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    19 ns
+Max latency:    34 ns
+Avg latency:    23.66 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    40 ns
+Avg latency:    23.70 ns
+Jitter (max-min): 22 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    245 ns
+Avg latency:    22.98 ns
+Jitter (max-min): 228 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    21.99 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.15 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.08 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.09 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.16 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    31 ns
+Avg latency:    22.13 ns
+Jitter (max-min): 14 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.16 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.09 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.11 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    72 ns
+Avg latency:    22.18 ns
+Jitter (max-min): 55 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    22.09 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    21.91 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    22.04 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.10 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.16 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.17 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.23 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.86 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.17 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.08 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.04 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.03 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    39 ns
+Avg latency:    22.10 ns
+Jitter (max-min): 22 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    40 ns
+Avg latency:    21.98 ns
+Jitter (max-min): 23 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    22.09 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.05 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    39 ns
+Avg latency:    22.03 ns
+Jitter (max-min): 22 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.10 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    21.61 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    38 ns
+Avg latency:    22.11 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    21.97 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    22.00 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    22.03 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    356 ns
+Avg latency:    23.40 ns
+Jitter (max-min): 338 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.82 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    34 ns
+Avg latency:    22.75 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    22.72 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    22.70 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    35 ns
+Avg latency:    22.73 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    33 ns
+Avg latency:    22.76 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.68 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    35 ns
+Avg latency:    22.79 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.69 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.71 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.73 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    38 ns
+Avg latency:    22.83 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    38 ns
+Avg latency:    22.78 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.79 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    112 ns
+Avg latency:    22.91 ns
+Jitter (max-min): 94 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    22.74 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.72 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    21.54 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    139 ns
+Avg latency:    21.96 ns
+Jitter (max-min): 122 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    31 ns
+Avg latency:    21.25 ns
+Jitter (max-min): 14 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    27 ns
+Avg latency:    20.34 ns
+Jitter (max-min): 10 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    21.65 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.74 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    44 ns
+Avg latency:    22.79 ns
+Jitter (max-min): 26 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    33 ns
+Avg latency:    22.75 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    22.77 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    41 ns
+Avg latency:    22.82 ns
+Jitter (max-min): 24 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    22.77 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    44 ns
+Avg latency:    22.81 ns
+Jitter (max-min): 26 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.90 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    37 ns
+Avg latency:    22.82 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    36 ns
+Avg latency:    22.80 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    34 ns
+Avg latency:    22.78 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    68 ns
+Avg latency:    23.01 ns
+Jitter (max-min): 50 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.84 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    33 ns
+Avg latency:    22.73 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.84 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    39 ns
+Avg latency:    22.83 ns
+Jitter (max-min): 22 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    35 ns
+Avg latency:    22.82 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    22.77 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    40 ns
+Avg latency:    22.81 ns
+Jitter (max-min): 23 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.82 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    163 ns
+Avg latency:    22.85 ns
+Jitter (max-min): 146 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    22.49 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.85 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    40 ns
+Avg latency:    22.84 ns
+Jitter (max-min): 23 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.79 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    40 ns
+Avg latency:    22.85 ns
+Jitter (max-min): 23 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.75 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    36 ns
+Avg latency:    22.79 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.83 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    42 ns
+Avg latency:    22.83 ns
+Jitter (max-min): 25 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    37 ns
+Avg latency:    22.91 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.86 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.74 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.85 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    37 ns
+Avg latency:    22.83 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    212 ns
+Avg latency:    22.73 ns
+Jitter (max-min): 195 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    48 ns
+Avg latency:    22.23 ns
+Jitter (max-min): 31 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    31 ns
+Avg latency:    22.15 ns
+Jitter (max-min): 14 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.12 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    109 ns
+Avg latency:    22.25 ns
+Jitter (max-min): 92 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    31 ns
+Avg latency:    22.18 ns
+Jitter (max-min): 14 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.17 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    38 ns
+Avg latency:    22.08 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    38 ns
+Avg latency:    22.07 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.13 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    21.76 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    40 ns
+Avg latency:    22.11 ns
+Jitter (max-min): 23 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.18 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    38 ns
+Avg latency:    22.15 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.13 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    22.13 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.18 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.10 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.07 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.20 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.14 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.19 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    39 ns
+Avg latency:    22.09 ns
+Jitter (max-min): 22 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    21.75 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.09 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.19 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.11 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.22 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    22.20 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    37 ns
+Avg latency:    22.21 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.08 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.96 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.16 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.04 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.25 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    368 ns
+Avg latency:    22.12 ns
+Jitter (max-min): 351 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.37 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    35 ns
+Avg latency:    21.25 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.35 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    31 ns
+Avg latency:    21.31 ns
+Jitter (max-min): 14 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    21.35 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    32 ns
+Avg latency:    21.43 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    21.37 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    21.07 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.42 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    21.36 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    21.32 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    31 ns
+Avg latency:    21.32 ns
+Jitter (max-min): 14 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    21.03 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    21.39 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    34 ns
+Avg latency:    21.37 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    21.45 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    29 ns
+Avg latency:    21.28 ns
+Jitter (max-min): 12 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    33 ns
+Avg latency:    21.33 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    36 ns
+Avg latency:    20.99 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    31 ns
+Avg latency:    21.27 ns
+Jitter (max-min): 14 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    34 ns
+Avg latency:    21.39 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.30 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    21.33 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    279 ns
+Avg latency:    22.18 ns
+Jitter (max-min): 262 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.77 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    38 ns
+Avg latency:    22.86 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    32 ns
+Avg latency:    22.74 ns
+Jitter (max-min): 14 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    35 ns
+Avg latency:    22.85 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    41 ns
+Avg latency:    22.85 ns
+Jitter (max-min): 23 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.44 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    34 ns
+Avg latency:    22.90 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.82 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    22.80 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    35 ns
+Avg latency:    22.80 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.82 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.86 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.78 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    22.80 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    48 ns
+Avg latency:    22.80 ns
+Jitter (max-min): 30 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    40 ns
+Avg latency:    22.79 ns
+Jitter (max-min): 22 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.81 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    38 ns
+Avg latency:    22.78 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.77 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    35 ns
+Avg latency:    22.93 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    36 ns
+Avg latency:    22.78 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    38 ns
+Avg latency:    22.91 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    35 ns
+Avg latency:    22.83 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    32 ns
+Avg latency:    22.77 ns
+Jitter (max-min): 14 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.77 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    70 ns
+Avg latency:    22.67 ns
+Jitter (max-min): 53 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    35 ns
+Avg latency:    22.89 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    41 ns
+Avg latency:    23.07 ns
+Jitter (max-min): 23 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    35 ns
+Avg latency:    22.89 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    34 ns
+Avg latency:    22.83 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    40 ns
+Avg latency:    22.90 ns
+Jitter (max-min): 22 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    43 ns
+Avg latency:    23.04 ns
+Jitter (max-min): 25 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    22.95 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.91 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    37 ns
+Avg latency:    22.91 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    33 ns
+Avg latency:    22.97 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    35 ns
+Avg latency:    22.92 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    22.92 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    34 ns
+Avg latency:    22.95 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.95 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    41 ns
+Avg latency:    23.00 ns
+Jitter (max-min): 23 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    106 ns
+Avg latency:    22.96 ns
+Jitter (max-min): 88 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    43 ns
+Avg latency:    22.93 ns
+Jitter (max-min): 25 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.94 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.84 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    38 ns
+Avg latency:    22.99 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    1942 ns
+Avg latency:    24.55 ns
+Jitter (max-min): 1925 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    33 ns
+Avg latency:    22.49 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    39 ns
+Avg latency:    22.86 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    22.93 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    37 ns
+Avg latency:    22.98 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    35 ns
+Avg latency:    22.95 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    39 ns
+Avg latency:    23.00 ns
+Jitter (max-min): 22 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.77 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    37 ns
+Avg latency:    22.90 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    38 ns
+Avg latency:    22.98 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    232 ns
+Avg latency:    23.06 ns
+Jitter (max-min): 215 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.98 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    31 ns
+Avg latency:    22.76 ns
+Jitter (max-min): 14 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    35 ns
+Avg latency:    22.83 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.95 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    37 ns
+Avg latency:    22.92 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    36 ns
+Avg latency:    22.94 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    38 ns
+Avg latency:    22.87 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    22.81 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    36 ns
+Avg latency:    22.91 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    2506 ns
+Avg latency:    25.47 ns
+Jitter (max-min): 2488 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.90 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    37 ns
+Avg latency:    22.96 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.80 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    40 ns
+Avg latency:    22.71 ns
+Jitter (max-min): 23 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    35 ns
+Avg latency:    22.84 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    39 ns
+Avg latency:    22.98 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    35 ns
+Avg latency:    22.87 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.74 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    35 ns
+Avg latency:    22.79 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    38 ns
+Avg latency:    22.85 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    38 ns
+Avg latency:    22.74 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    32 ns
+Avg latency:    22.88 ns
+Jitter (max-min): 14 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    39 ns
+Avg latency:    22.55 ns
+Jitter (max-min): 22 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.85 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    37 ns
+Avg latency:    22.92 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.82 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    35 ns
+Avg latency:    22.79 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    38 ns
+Avg latency:    22.75 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.83 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    110 ns
+Avg latency:    22.78 ns
+Jitter (max-min): 93 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    34 ns
+Avg latency:    22.68 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    41 ns
+Avg latency:    22.89 ns
+Jitter (max-min): 24 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.79 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.76 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.73 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    199 ns
+Avg latency:    22.76 ns
+Jitter (max-min): 182 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.03 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.06 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    21.80 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.00 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.00 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.02 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    21.97 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    21.98 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.96 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    21.96 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    21.99 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.01 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    21.99 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    21.98 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    54 ns
+Avg latency:    21.98 ns
+Jitter (max-min): 37 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    22.03 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.98 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.92 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    110 ns
+Avg latency:    22.12 ns
+Jitter (max-min): 93 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.04 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.02 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    41 ns
+Avg latency:    22.02 ns
+Jitter (max-min): 24 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.00 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    38 ns
+Avg latency:    22.04 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    42 ns
+Avg latency:    22.09 ns
+Jitter (max-min): 25 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.05 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    213 ns
+Avg latency:    22.85 ns
+Jitter (max-min): 196 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.86 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.85 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    38 ns
+Avg latency:    22.51 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    39 ns
+Avg latency:    22.74 ns
+Jitter (max-min): 22 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    22.76 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    39 ns
+Avg latency:    22.83 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.81 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.77 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    455 ns
+Avg latency:    23.06 ns
+Jitter (max-min): 438 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    33 ns
+Avg latency:    22.88 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    142 ns
+Avg latency:    22.91 ns
+Jitter (max-min): 124 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.81 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    38 ns
+Avg latency:    22.87 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.77 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.80 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    34 ns
+Avg latency:    22.87 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    35 ns
+Avg latency:    22.30 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    248 ns
+Avg latency:    22.99 ns
+Jitter (max-min): 231 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    22.86 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.76 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    39 ns
+Avg latency:    22.86 ns
+Jitter (max-min): 22 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    40 ns
+Avg latency:    22.88 ns
+Jitter (max-min): 23 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    38 ns
+Avg latency:    22.95 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    36 ns
+Avg latency:    22.79 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    34 ns
+Avg latency:    22.88 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    39 ns
+Avg latency:    22.84 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.84 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    36 ns
+Avg latency:    22.73 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    32 ns
+Avg latency:    22.83 ns
+Jitter (max-min): 14 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    135 ns
+Avg latency:    22.84 ns
+Jitter (max-min): 118 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    185 ns
+Avg latency:    23.42 ns
+Jitter (max-min): 168 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    22.17 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.15 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.16 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    22.09 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.05 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    39 ns
+Avg latency:    22.18 ns
+Jitter (max-min): 22 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.20 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    22.09 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    22.17 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    38 ns
+Avg latency:    21.98 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    36 ns
+Avg latency:    22.21 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.11 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.16 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.11 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    38 ns
+Avg latency:    22.16 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    43 ns
+Avg latency:    22.09 ns
+Jitter (max-min): 26 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    39 ns
+Avg latency:    22.14 ns
+Jitter (max-min): 22 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    22.14 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.08 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    302 ns
+Avg latency:    22.39 ns
+Jitter (max-min): 285 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    21.95 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.14 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.23 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    39 ns
+Avg latency:    22.09 ns
+Jitter (max-min): 22 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.15 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.11 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    139 ns
+Avg latency:    22.18 ns
+Jitter (max-min): 122 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.03 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    21.96 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.14 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    35 ns
+Avg latency:    22.04 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    264 ns
+Avg latency:    21.82 ns
+Jitter (max-min): 248 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    21.19 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    35 ns
+Avg latency:    21.30 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    32 ns
+Avg latency:    21.26 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    21.29 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    21.38 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.26 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    169 ns
+Avg latency:    21.00 ns
+Jitter (max-min): 153 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    164 ns
+Avg latency:    21.47 ns
+Jitter (max-min): 147 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    1754 ns
+Avg latency:    22.86 ns
+Jitter (max-min): 1738 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    35 ns
+Avg latency:    21.36 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    32 ns
+Avg latency:    21.32 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    21.32 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    21.36 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    32 ns
+Avg latency:    21.29 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.36 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    21.37 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    32 ns
+Avg latency:    21.37 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    21.22 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    32 ns
+Avg latency:    20.93 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    21.30 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    28 ns
+Avg latency:    21.27 ns
+Jitter (max-min): 11 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.29 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    32 ns
+Avg latency:    21.03 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    21.35 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    128 ns
+Avg latency:    21.36 ns
+Jitter (max-min): 112 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    32 ns
+Avg latency:    21.30 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.35 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    225 ns
+Avg latency:    22.37 ns
+Jitter (max-min): 208 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    134 ns
+Avg latency:    22.10 ns
+Jitter (max-min): 117 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.98 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    2154 ns
+Avg latency:    23.80 ns
+Jitter (max-min): 2137 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.96 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.07 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    22.01 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    21.90 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.97 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    22.04 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.03 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    21.95 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    107 ns
+Avg latency:    22.06 ns
+Jitter (max-min): 90 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    22.06 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.00 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.01 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.96 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    38 ns
+Avg latency:    22.16 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    214 ns
+Avg latency:    22.26 ns
+Jitter (max-min): 197 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    21.99 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.97 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.07 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.01 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.14 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    1867 ns
+Avg latency:    24.59 ns
+Jitter (max-min): 1850 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    38 ns
+Avg latency:    21.77 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.01 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.14 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.04 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    29 ns
+Avg latency:    21.48 ns
+Jitter (max-min): 12 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    133 ns
+Avg latency:    21.72 ns
+Jitter (max-min): 116 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    22.08 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    31 ns
+Avg latency:    22.10 ns
+Jitter (max-min): 14 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    240 ns
+Avg latency:    22.34 ns
+Jitter (max-min): 224 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    125 ns
+Avg latency:    21.32 ns
+Jitter (max-min): 108 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.32 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    21.29 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    21.29 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    31 ns
+Avg latency:    21.31 ns
+Jitter (max-min): 14 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.23 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    21.34 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    33 ns
+Avg latency:    21.27 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    21.26 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.23 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    34 ns
+Avg latency:    21.28 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    21.30 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    663 ns
+Avg latency:    21.93 ns
+Jitter (max-min): 646 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    30 ns
+Avg latency:    21.23 ns
+Jitter (max-min): 14 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    31 ns
+Avg latency:    21.04 ns
+Jitter (max-min): 14 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.25 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    21.26 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    21.28 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    21.28 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    33 ns
+Avg latency:    21.28 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    31 ns
+Avg latency:    21.24 ns
+Jitter (max-min): 14 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    31 ns
+Avg latency:    20.76 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    16 ns
+Max latency:    31 ns
+Avg latency:    21.29 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    379 ns
+Avg latency:    22.74 ns
+Jitter (max-min): 362 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.78 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    22.77 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    34 ns
+Avg latency:    22.74 ns
+Jitter (max-min): 16 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    37 ns
+Avg latency:    22.73 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    22.81 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    36 ns
+Avg latency:    22.81 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    36 ns
+Avg latency:    22.75 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    22.71 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    38 ns
+Avg latency:    22.72 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    2817 ns
+Avg latency:    26.00 ns
+Jitter (max-min): 2800 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.77 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    22.78 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    33 ns
+Avg latency:    22.79 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.84 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    37 ns
+Avg latency:    22.77 ns
+Jitter (max-min): 20 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    35 ns
+Avg latency:    22.51 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    39 ns
+Avg latency:    22.83 ns
+Jitter (max-min): 22 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    37 ns
+Avg latency:    22.91 ns
+Jitter (max-min): 19 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    39 ns
+Avg latency:    22.81 ns
+Jitter (max-min): 21 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    41 ns
+Avg latency:    22.75 ns
+Jitter (max-min): 24 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    39 ns
+Avg latency:    22.79 ns
+Jitter (max-min): 22 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    110 ns
+Avg latency:    22.82 ns
+Jitter (max-min): 93 ns
+
+--- Benchmark Results ---
+Min latency:    18 ns
+Max latency:    36 ns
+Avg latency:    22.79 ns
+Jitter (max-min): 18 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    40 ns
+Avg latency:    22.71 ns
+Jitter (max-min): 23 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    22.37 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    156 ns
+Avg latency:    22.83 ns
+Jitter (max-min): 139 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    34 ns
+Avg latency:    21.39 ns
+Jitter (max-min): 17 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    105 ns
+Avg latency:    21.50 ns
+Jitter (max-min): 88 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.30 ns
+Jitter (max-min): 15 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    201 ns
+Avg latency:    21.35 ns
+Jitter (max-min): 184 ns
+
+--- Benchmark Results ---
+Min latency:    17 ns
+Max latency:    32 ns
+Avg latency:    21.40 ns
+Jitter (max-min): 15 ns
